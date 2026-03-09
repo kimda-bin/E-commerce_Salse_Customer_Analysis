@@ -25,7 +25,7 @@ Python, SQL, Tableau를 활용한 이커머스 데이터 분석 미니 프로젝
 ---
 
 ## 데이터 구조
-- raw_orders : 원본 주문 데이터 테이블
+- raw_orders : 원본 데이터 테이블
 - clean_orders : 분석용 데이터 테이블
 
 ---
